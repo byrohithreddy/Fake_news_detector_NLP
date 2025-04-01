@@ -90,7 +90,7 @@ This project is licensed under the **MIT License**.
 ## ✨ Author
 👨‍💻 **Rohith Reddy**  
 GitHub: [byrohithreddy](https://github.com/byrohithreddy)  
-LinkedIn: [MUSHKE ROHITH REDDY](www.linkedin.com/in/mushke-rohith-reddy-915945306)  
+LinkedIn:www.linkedin.com/in/mushke-rohith-reddy-915945306
 
 ---
 
